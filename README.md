@@ -1,9 +1,6 @@
 # What is Athena?
 Athena is a small library for game development in the Go programming language.
 
-# Status
-The project is currently under development. At present, the [ECS](https://en.wikipedia.org/wiki/Entity_component_system) module is implemented, and work is underway to integrate 2D and 3D rendering.
-
 # ECS 
 ```go
 	type Hero   struct{ name string }
